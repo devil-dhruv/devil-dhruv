@@ -17,9 +17,7 @@ Currently Learning
 
 I am currently focusing on enhancing my skills in the following areas:
 
-Advanced JavaScript concepts
-
-React.js and front-end development
+JavaScript
 
 Advanced HTML and CSS
 
